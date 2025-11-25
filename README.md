@@ -50,4 +50,8 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOLopez&layout=donut&theme=tokyonight&hide_border=true&bg_color=151515&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF" alt="Top Languages" />
+</div>
+
 ### ⚡ Recent Activity
