@@ -5,7 +5,7 @@
   ### Computer Systems Student | Full Stack Developer
   
   <p>
-    <em>Pasión por el desarrollo de software, la seguridad informática y la creación de soluciones tecnológicas.</em>
+    <em>Passionate about software development, cybersecurity, and building technological solutions.</em>
   </p>
 
   <br>
@@ -31,7 +31,7 @@
 
 | **Languages** | **Frontend** | **Backend & DB** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,java,cpp,php" /> | <img src="https://skillicons.dev/icons?i=ts,js,react,angular" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,sequelize" /> |
+| <img src="https://skillicons.dev/icons?i=python,java,cpp,php,swift" /> | <img src="https://skillicons.dev/icons?i=ts,js,react,angular" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,sequelize" /> |
 
 </div>
 
@@ -40,20 +40,15 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoOLopez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoOLopez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoOLopez&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoOLopez&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoOLopez&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" width="800" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoOLopez&radius=16&theme=tokyonight&area=true&order=5&hide_border=true&hide_title=false" width="800" alt="activity-graph graph" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoOLopez&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&t=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoOLopez&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&include_all_commits=true&t=1" height="150" alt="languages graph" />
-</div>
 
 ### ⚡ Recent Activity
