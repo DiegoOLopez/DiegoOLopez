@@ -25,7 +25,7 @@
 <br>
 <hr>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 <br>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoOLopez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
@@ -51,7 +51,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoOLopez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoOLopez&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&t=1" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoOLopez&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&include_all_commits=true&t=1" height="150" alt="languages graph" />
 </div>
 
 ### ⚡ Recent Activity
