@@ -1,54 +1,207 @@
 <div align="center">
-  
-  # Hi there, I'm Diego! 👋
-  
-  ### Computer Systems Student | Full Stack Developer
-  
-  <p>
-    <em>Passionate about software development, cybersecurity, and building technological solutions.</em>
-  </p>
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:00111a,100:001f2e&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a26,100:00f0ff&height=220&section=header&text=Diego%20Obed%20Lopez&fontSize=52&fontColor=00f0ff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Network%20Builder&descAlignY=60&descSize=16&descColor=7fffff&stroke=00f0ff&strokeWidth=2" width="100%"/>
 
-  <a href="https://www.linkedin.com/in/diegoolopezc/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://x.com/ObedCasimiro" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/diego_olc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
+<a href="https://www.linkedin.com/in/diegoolopezc/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/ObedCasimiro" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/diego_olc/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:dieobelopcas01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=DiegoOLopez&label=Profile%20Views&color=4c83e2&style=flat-square" />
 
 </div>
 
-<br>
-<hr>
+---
 
-### Tech Stack
+## 🧠 About Me
+
+```typescript
+const diego = {
+  role:        "AI Software Engineer & Full Stack Developer",
+  location:    "Estado de México, México 🇲🇽",
+  education:   "B.Eng. Computer Systems Engineering — GPA 87.9/100",
+  currentWork: ["OblekCompany (AI Trainee)", "ICT@NET (ISP Co-Founder)"],
+  focus:       ["LLMs", "RAG Systems", "Full Stack Web", "Mobile (iOS)", "Cybersecurity"],
+  funFact:     "I built an ISP before graduating college 📡",
+};
+```
+
+I'm a Computer Systems Engineering student with hands-on experience building **AI-powered platforms**, **production web apps**, and **network infrastructure** from the ground up. I believe in learning by shipping real things — not just tutorials.
+
+---
+
+## 🏆 Awards & Achievements
 
 <div align="center">
 
-| **Languages** | **Frontend** | **Backend & DB** |
+| 🥇 | Winner — "Best Use of Gemini API" @ **PoliHacks 2025** (MLH) |
+|:---:|:---|
+| 🥉 | 3rd Place — **Notion Hackathon 2024** |
+| 🎓 | **HarvardX CS50** — Introduction to Programming with Python |
+| 🔐 | **Google Cybersecurity** Professional Certificate |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🏦 Bankurity — Real-Time Voice Fraud Detection
+> **Winner @ PoliHacks 2025 · Best Use of Gemini API (MLH)**
+
+An **iOS security app** built in Swift that listens to live call audio and detects banking scams in real time. Uses AI models for keyword detection, malicious intent classification, and instant user alerts — all while a standard call is ongoing.
+
+`Swift` `SwiftUI` `Gemini API` `Real-Time Audio Processing` `AI Classification`
+
+---
+
+### 💬 IntelliChat — AI Journalism Assistant
+> **@ OblekCompany · Production**
+
+An **AI-powered platform** for journalists to generate professional summaries and reports. Implemented **RAG (Retrieval-Augmented Generation)** architecture to query internal databases and documents. Integrated real-time web search for fact-checking and content enrichment.
+
+`LLMs` `RAG` `Llama.cpp` `Vector Databases` `Bun` `FastAPI`
+
+---
+
+### 📚 CDJ Edutech — Learning Management System
+> **Full Stack · 200+ Active Students**
+
+A **production LMS** handling groups, exams, and payments. Automated administrative workflows that reduced manual data entry workload by **40%**.
+
+`React` `Node.js` `PostgreSQL` `Express.js`
+
+---
+
+### 📡 ICT@NET — Internet Service Provider
+> **Co-Founder · Sep 2023 – Present**
+
+Architected and managed a **WISP infrastructure** with 99.9% uptime. Configured Ubiquiti/Mikrotik hardware, routing protocols, and built internal scripts to automate billing and user provisioning.
+
+`Networking` `MikroTik` `Ubiquiti` `Python Scripts` `Infrastructure`
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| **Languages** | **Frontend** | **Backend** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,java,cpp,php,swift" /> | <img src="https://skillicons.dev/icons?i=ts,js,react,angular" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgres,sequelize" /> |
+| <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,swift" /> | <img src="https://skillicons.dev/icons?i=react,angular,nextjs" /> | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" /> |
+
+| **Mobile** | **Databases** | **Tools & Cloud** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=swift,react" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,aws" /> |
 
 </div>
-<br>
 
-### GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoOLopez&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoOLopez&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoOLopez&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoOLopez&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f0ff" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoOLopez&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&color=4c83e2" width="800" alt="activity-graph graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoOLopez&theme=dark&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="500" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoOLopez&radius=16&theme=github-dark&area=true&hide_border=true&color=00f0ff&line=00f0ff&point=ffffff&area_color=001a26" width="100%" />
+</div>
 
-<br>
+---
 
-### ⚡ Recent Activity
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoOLopez/DiegoOLopez/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoOLopez/DiegoOLopez/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/DiegoOLopez/DiegoOLopez/output/github-snake-dark.svg" alt="snake animation" />
+  </picture>
+</div>
+
+<details>
+<summary>⚙️ Click here to activate the Snake — GitHub Action setup</summary>
+
+Create the file `.github/workflows/snake.yml` in your **profile repo** (`DiegoOLopez/DiegoOLopez`) with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00f0ff&color_dots=#0d1117,#001a1a,#003333,#005555,#00cccc&color_background=#0d1117
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After pushing this file, go to **Actions → Generate Snake Animation → Run workflow** to trigger it manually the first time.
+
+</details>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+---
+
+## 😄 Dev Joke of the Day
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:001a26,100:000000&height=120&section=footer&reversal=true&fontColor=00f0ff" width="100%"/>
+</div>
