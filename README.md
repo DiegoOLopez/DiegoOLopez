@@ -135,46 +135,6 @@ Architected and managed a **WISP infrastructure** with 99.9% uptime. Configured 
   </picture>
 </div>
 
-<details>
-<summary>⚙️ Click here to activate the Snake — GitHub Action setup</summary>
-
-Create the file `.github/workflows/snake.yml` in your **profile repo** (`DiegoOLopez/DiegoOLopez`) with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00f0ff&color_dots=#0d1117,#001a1a,#003333,#005555,#00cccc&color_background=#0d1117
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After pushing this file, go to **Actions → Generate Snake Animation → Run workflow** to trigger it manually the first time.
-
-</details>
-
 ---
 
 ## 🌱 Currently Learning
